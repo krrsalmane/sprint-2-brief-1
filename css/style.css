@@ -47,4 +47,24 @@ margin-top: 15px;
   border-radius: 10px;
   padding: 6px;
   }
+  .second{
+    margin: 70px;
+  }
+ 
+.main{
+    display: inline-flex;
+  }
+  div p{
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: 10px;
+       margin-right: 20px;
+  }
+  footer{
+    display: flex table-row;
+    background-color: #FDF0EA;
+    padding: 15px;
+  }
+  footer p,h5{
+    margin-left: 100px;
+  }
 
