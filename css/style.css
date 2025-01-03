@@ -12,3 +12,39 @@ body{
 
 
 }
+ul{
+  display: inline-flex;    
+  list-style-type: none;
+  gap: 20px;
+  padding-top: 13px;
+}
+.logo{
+  margin-left: 10px;
+}
+.bt1{
+background-color: #EB662B;
+color : white;
+border-style: none;
+border-radius: 10px;
+padding: 6px;
+margin-left: 20px;
+margin-top: 15px;
+}
+
+
+#Jamais {
+  color: #EB662B;
+}
+.first {
+ display: flex;
+ 
+  margin:70px;
+}
+.bt2{
+  background-color: #EB662B;
+  color : white;
+  border-style: none;
+  border-radius: 10px;
+  padding: 6px;
+  }
+
